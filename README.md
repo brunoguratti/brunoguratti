@@ -6,14 +6,6 @@ For over a decade, I have been a dedicated and results-driven professional, honi
 ### 🌍 Interests
 In addition to my studies in data science, I have a passion for exploring the world and enjoy hiking, traveling, and cooking. These experiences provide me with fresh perspectives and inspiration, fueling my creativity and problem-solving mindset. Whether I'm experimenting with new flavors in the kitchen or immersing myself in different cultures and cuisines during my travels, I find that these diverse experiences contribute to my analytical thinking and drive for innovation in data science.
 
-### 🛠️ Skills
-
-- Data Science
-- Data Analytics
-- Data Visualization
-- Python
-- Machine Learning
-
 ### 📫 Contact me
 https://www.linkedin.com/in/brunoguratti/
 
